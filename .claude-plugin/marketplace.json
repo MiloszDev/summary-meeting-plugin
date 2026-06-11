@@ -1,0 +1,10 @@
+{
+  "name": "My Plugins",
+  "version": "1.0",
+  "plugins": [
+    {
+      "name": "meeting-summariser",
+      "source": "./meeting-summariser"
+    }
+  ]
+}
