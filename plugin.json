@@ -1,0 +1,15 @@
+{
+  "name": "meeting-summariser",
+  "display_name": "Meeting Notes Summariser",
+  "description": "Turns raw meeting notes into a structured summary with decisions and action items.",
+  "version": "1.0",
+  "commands": [
+    {
+      "name": "summarise-meeting",
+      "file": "summarise-meeting.md"
+    }
+  ],
+  "reference": [
+    "reference/output-format.md"
+  ]
+}
